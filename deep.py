@@ -64,5 +64,3 @@ while True :
     ai = response.text
     context.append({"role":"assistant","content":ai})
     print("Ai  : ",ai)
-["image_generator","image_editor"]
-------WebKitFormBoundary7L3oBhqb57pBpfSF--"""
